@@ -1,5 +1,5 @@
 # Excel Pie Reader
-A simple program in Perl that reads data from a Windows Excel file and converts it to a PDF with a pie chart
+A simple program in Perl that reads data from a Windows Excel file and converts it to a formatted PDF
 
 ## Usage
 Run on linux using
