@@ -26,6 +26,7 @@ ex:
 | food |  30% |  |
 | electricity |    20%   |    |
 | gas | 50% |     |
+|    | |     |
 
 
 
@@ -36,6 +37,7 @@ To create a list, write a consecutive series of rows starting with the '-' chara
 | - food |  |  |
 | - electricity |       |    |
 | - gas |  |     |
+|  | |     |
 
 ### Title
 The first populated row is always interpretted as the title and is formatted in bigger font on top of a line.
