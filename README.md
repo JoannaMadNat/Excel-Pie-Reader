@@ -41,7 +41,7 @@ To create a list, write a consecutive series of rows starting with the '-' chara
 
 ### Title
 The first populated row is always interpretted as the title and is formatted in bigger font on top of a line.
-Coumn placement does not matter.
+Column placement does not matter.
 
 ### Other Text
 Any other text is placed in regular formatting where each cell occupies one line. The cells are read in row major order.
