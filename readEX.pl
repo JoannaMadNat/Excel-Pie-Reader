@@ -3,7 +3,7 @@ use strict; use warnings;
 use Spreadsheet::ParseXLSX;
 binmode STDOUT, ":utf8";
 
-# reads a XLSX file and returns the first worskeet of the workbook
+# reads a XLSX file and returns the first worsheet of the workbook
 # arguments: $fileName
 # returns:   $worksheet
 sub readEX {
