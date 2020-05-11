@@ -5,7 +5,8 @@
 use GD::Graph::pie;
 use strict;
 
-# Generates a PNG pie chart from a set of rows in a worksheet.. stops reading when encounters first empty row
+# Generates a PNG pie chart from a set of rows in a worksheet.. stops reading when encountering an empty row.
+# Resturns last row read
 # Arguments: $worksheet, $imageName, $startRow, $startCol
 # Returns: $endRow, $imageSize
 sub generatePiePDF() {
