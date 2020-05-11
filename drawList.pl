@@ -5,7 +5,7 @@ use strict; use warnings;
 use PDF::Create;
 use utf8;
 
-# Takes a list of formatted lines and draws them in the form of a list
+# Takes location in a worksheet and draws each cell in the form of a list table
 # Arguments: $worksheet, $pdf, $page, $leftMargin, $pos, $startRow, $startCol
 # Returns: $lastRow
 sub addList() {
